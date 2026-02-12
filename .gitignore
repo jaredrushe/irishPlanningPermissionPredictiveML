@@ -1,0 +1,4 @@
+data/*.gpkg
+data/planningApplications.csv
+*.gpkg
+data/planningApplications.csv
